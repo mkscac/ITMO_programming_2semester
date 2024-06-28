@@ -1,0 +1,14 @@
+# Target labels
+ curl-populate
+# Source files and their labels
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test.rule
+/Users/mac/CLionProjects/prg_9laba_REST_(curl)/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update.rule

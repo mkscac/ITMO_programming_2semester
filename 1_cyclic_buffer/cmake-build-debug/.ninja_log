@@ -1,0 +1,23 @@
+# ninja log v5
+360	396	1715071899826286328	prg_7laba_circ_buff	765858eb16be1fd4
+4	69	1715064810124934867	build.ninja	2eea157dcb14780d
+6	359	1715071899789753606	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+7	642	1715024153230862911	CMakeFiles/prg_7laba_circ_buff.dir/fun_circular_buffer.cpp.o	fd132626619f9c58
+7	698	1715071974051558263	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+699	863	1715071974215804869	prg_7laba_circ_buff	765858eb16be1fd4
+6	364	1715071982246467857	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+364	400	1715071982282576635	prg_7laba_circ_buff	765858eb16be1fd4
+6	343	1715071987831111366	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+343	376	1715071987865427204	prg_7laba_circ_buff	765858eb16be1fd4
+7	710	1715072085562085821	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+710	876	1715072085728131532	prg_7laba_circ_buff	765858eb16be1fd4
+6	706	1715072116230202554	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+706	872	1715072116396123228	prg_7laba_circ_buff	765858eb16be1fd4
+6	723	1715072150857535951	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+723	884	1715072151018687495	prg_7laba_circ_buff	765858eb16be1fd4
+6	401	1715072171896553898	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+402	438	1715072171934014838	prg_7laba_circ_buff	765858eb16be1fd4
+6	821	1715073740909047729	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+822	1029	1715073741114254762	prg_7laba_circ_buff	765858eb16be1fd4
+9	1137	1716561207114152966	CMakeFiles/prg_7laba_circ_buff.dir/main.cpp.o	368862025fe0af9d
+1137	1476	1716561207449349046	prg_7laba_circ_buff	765858eb16be1fd4
